@@ -1,0 +1,10 @@
+[Unit]
+Description=Mouse Sparkles
+
+[Service]
+ExecStart=/usr/bin/python /home/YOUR_USERNAME/path/to/msp.py
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=graphical-session.target
