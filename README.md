@@ -2,6 +2,8 @@
 
 A mouse-following sparkle/comet overlay for Linux + X11.
 
+![demo.gif](https://github.com/sparkles-everywhere/sparkle-cursor/blob/main/demo.GIF)
+
 ## Description
 
 Cursor Comet creates a beautiful particle trail that follows your mouse cursor. The overlay is completely mouse-transparent, so it won't interfere with your normal mouse clicks or other desktop effects.
