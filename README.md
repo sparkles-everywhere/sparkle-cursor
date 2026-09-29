@@ -1,4 +1,4 @@
-# Cursor Comet
+# Cursor Sparkles
 
 A mouse-following sparkle/comet overlay for Linux + X11.
 
@@ -6,7 +6,7 @@ A mouse-following sparkle/comet overlay for Linux + X11.
 
 ## Description
 
-Cursor Comet creates a beautiful particle trail that follows your mouse cursor. The overlay is completely mouse-transparent, so it won't interfere with your normal mouse clicks or other desktop effects.
+Cursor Sparkles creates a particle trail that follows your mouse cursor. The overlay is completely mouse-transparent, so it won't interfere with your normal mouse clicks or other desktop effects.
 
 ## Features
 
@@ -127,7 +127,7 @@ compton --config ~/.config/compton.conf
 
 **"This program requires X11"**
 
-Cursor Comet only supports X11. It will not work on Wayland.
+Cursor Sparkles only supports X11. It will not work on Wayland.
 
 **Overlay not visible**
 
